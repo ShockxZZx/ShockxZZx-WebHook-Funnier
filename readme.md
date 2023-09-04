@@ -1,4 +1,4 @@
-# Webhook Utility README
+# WebHook Funnier README
 
 This Python script provides a simple utility to interact with Discord webhooks. It allows you to spam messages to a webhook or delete a webhook based on your choice. Below is an explanation of the code and its functionality.
 
@@ -76,6 +76,3 @@ python webhook_utility.py
 
 Feel free to contribute to this script by opening issues or pull requests on the [GitHub repository](https://github.com/ShockxZZx/ShockxZZx-WebHook-Funnier).
 
-## License
-
-This script is provided under the [MIT License](LICENSE). You are free to use and modify it as per the terms of the license.
