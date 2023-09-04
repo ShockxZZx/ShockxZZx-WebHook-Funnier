@@ -13,7 +13,7 @@ This Python script provides a simple utility to interact with Discord webhooks. 
 - [Contributing](#contributing)
 - [License](#license)
 
-<![Display](https://cdn.discordapp.com/attachments/1148256815897915422/1148275191911288872/display.png)>
+![Display](https://cdn.discordapp.com/attachments/1148256815897915422/1148275191911288872/display.png)
 
 ## Features
 
