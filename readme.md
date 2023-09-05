@@ -11,7 +11,6 @@ This Python script provides a simple utility to interact with Discord webhooks. 
   - [Delete a Webhook](#delete-a-webhook)
 - [How to Run](#how-to-run)
 - [Contributing](#contributing)
-- [License](#license)
 
 ![Display](https://cdn.discordapp.com/attachments/1148256815897915422/1148275191911288872/display.png)
 
